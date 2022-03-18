@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "680181cd-25c8-4f5a-ac93-361c9524b73d": {
+      "ProjectGuid": "680181cd-25c8-4f5a-ac93-361c9524b73d",
+      "DisplayName": "NS.EMS.WEB",
+      "ColorIndex": 0
+    },
+    "df879c29-a103-4675-b9b3-da91893149a3": {
+      "ProjectGuid": "df879c29-a103-4675-b9b3-da91893149a3",
+      "DisplayName": "NS.EMS.Repository",
+      "ColorIndex": 1
+    },
+    "86681e1c-64f8-4742-a4ef-95c44af9323c": {
+      "ProjectGuid": "86681e1c-64f8-4742-a4ef-95c44af9323c",
+      "DisplayName": "NS.EMS.Data",
+      "ColorIndex": 2
+    },
+    "f0a06eb9-4860-4e3e-90e4-83d0a35c6092": {
+      "ProjectGuid": "f0a06eb9-4860-4e3e-90e4-83d0a35c6092",
+      "DisplayName": "NS.EMS.Business",
+      "ColorIndex": 3
+    },
+    "7032a9ab-60a2-41d8-9631-e00eae4eca8f": {
+      "ProjectGuid": "7032a9ab-60a2-41d8-9631-e00eae4eca8f",
+      "DisplayName": "NS.EMS.Model",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

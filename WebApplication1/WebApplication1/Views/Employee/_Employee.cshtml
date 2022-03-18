@@ -1,0 +1,15 @@
+﻿@model List<EmployeeDetails>
+@foreach (var item in Model)
+{
+    <div>
+        <a href=#>@item.EmpId</a>
+    </div>
+    <div>
+        @item.EmpName
+    </div>
+    <div>
+        @item.EmpAge
+    </div>
+}
+
+

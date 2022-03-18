@@ -1,0 +1,13 @@
+C:\Users\sweek\source\repos\EMS\NS.EMS.Data\bin\Debug\netcoreapp3.1\NS.EMS.Data.deps.json
+C:\Users\sweek\source\repos\EMS\NS.EMS.Data\bin\Debug\netcoreapp3.1\NS.EMS.Data.runtimeconfig.json
+C:\Users\sweek\source\repos\EMS\NS.EMS.Data\bin\Debug\netcoreapp3.1\NS.EMS.Data.runtimeconfig.dev.json
+C:\Users\sweek\source\repos\EMS\NS.EMS.Data\bin\Debug\netcoreapp3.1\NS.EMS.Data.dll
+C:\Users\sweek\source\repos\EMS\NS.EMS.Data\bin\Debug\netcoreapp3.1\NS.EMS.Data.pdb
+C:\Users\sweek\source\repos\EMS\NS.EMS.Data\obj\Debug\netcoreapp3.1\NS.EMS.Data.csproj.AssemblyReference.cache
+C:\Users\sweek\source\repos\EMS\NS.EMS.Data\obj\Debug\netcoreapp3.1\NS.EMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sweek\source\repos\EMS\NS.EMS.Data\obj\Debug\netcoreapp3.1\NS.EMS.Data.AssemblyInfoInputs.cache
+C:\Users\sweek\source\repos\EMS\NS.EMS.Data\obj\Debug\netcoreapp3.1\NS.EMS.Data.AssemblyInfo.cs
+C:\Users\sweek\source\repos\EMS\NS.EMS.Data\obj\Debug\netcoreapp3.1\NS.EMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\sweek\source\repos\EMS\NS.EMS.Data\obj\Debug\netcoreapp3.1\NS.EMS.Data.dll
+C:\Users\sweek\source\repos\EMS\NS.EMS.Data\obj\Debug\netcoreapp3.1\NS.EMS.Data.pdb
+C:\Users\sweek\source\repos\EMS\NS.EMS.Data\obj\Debug\netcoreapp3.1\NS.EMS.Data.genruntimeconfig.cache

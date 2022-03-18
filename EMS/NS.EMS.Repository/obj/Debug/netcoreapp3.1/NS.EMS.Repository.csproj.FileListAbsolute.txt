@@ -1,0 +1,15 @@
+C:\Users\sweek\source\repos\EMS\NS.EMS.Repository\bin\Debug\netcoreapp3.1\NS.EMS.Repository.deps.json
+C:\Users\sweek\source\repos\EMS\NS.EMS.Repository\bin\Debug\netcoreapp3.1\NS.EMS.Repository.dll
+C:\Users\sweek\source\repos\EMS\NS.EMS.Repository\bin\Debug\netcoreapp3.1\NS.EMS.Repository.pdb
+C:\Users\sweek\source\repos\EMS\NS.EMS.Repository\obj\Debug\netcoreapp3.1\NS.EMS.Repository.csproj.AssemblyReference.cache
+C:\Users\sweek\source\repos\EMS\NS.EMS.Repository\obj\Debug\netcoreapp3.1\NS.EMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sweek\source\repos\EMS\NS.EMS.Repository\obj\Debug\netcoreapp3.1\NS.EMS.Repository.AssemblyInfoInputs.cache
+C:\Users\sweek\source\repos\EMS\NS.EMS.Repository\obj\Debug\netcoreapp3.1\NS.EMS.Repository.AssemblyInfo.cs
+C:\Users\sweek\source\repos\EMS\NS.EMS.Repository\obj\Debug\netcoreapp3.1\NS.EMS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\sweek\source\repos\EMS\NS.EMS.Repository\obj\Debug\netcoreapp3.1\NS.EMS.Repository.dll
+C:\Users\sweek\source\repos\EMS\NS.EMS.Repository\obj\Debug\netcoreapp3.1\NS.EMS.Repository.pdb
+C:\Users\sweek\source\repos\EMS\NS.EMS.Repository\bin\Debug\netcoreapp3.1\NS.EMS.Data.dll
+C:\Users\sweek\source\repos\EMS\NS.EMS.Repository\bin\Debug\netcoreapp3.1\NS.EMS.Data.pdb
+C:\Users\sweek\source\repos\EMS\NS.EMS.Repository\obj\Debug\netcoreapp3.1\NS.EMS.Repository.csproj.CopyComplete
+C:\Users\sweek\source\repos\EMS\NS.EMS.Repository\bin\Debug\netcoreapp3.1\NS.EMS.Model.dll
+C:\Users\sweek\source\repos\EMS\NS.EMS.Repository\bin\Debug\netcoreapp3.1\NS.EMS.Model.pdb

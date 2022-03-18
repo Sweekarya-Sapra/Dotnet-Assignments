@@ -1,0 +1,52 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+} 
+@*@model List<NS.EMS.Model.EmployeeModel>
+*@
+    @model List<NS.EMS.Data.Entities.Employee>
+@{
+    ViewData["Title"] = "ShowDetails";
+}
+
+ <table class="table">
+      <thead>
+
+        <tr>
+          <th scope="col">Id</th>
+          <th scope="col">Name</th>
+          <th scope="col">Email</th>
+          <th scope="col">Mobile</th>
+          <th scope="col">Department</th>
+         
+         
+          <th scope="col">Update</th>
+           <th scope="col">Delete</th>
+        </tr>
+      </thead>
+      <tbody>
+           @foreach (var item in Model)
+       {
+           <tr>
+               
+                <td>@item.Eid</td>
+                <td>@item.EmployeeName</td>
+                <td>@item.Email</td>
+                <td>@item.Mobile</td>
+                <td>@item.Department</td>
+                
+              
+                <td>@Html.ActionLink("Update","Update", new { id=@item.Eid })</td> 
+                <td>@Html.ActionLink("Delete","Delete", new { id=@item.Eid})</td>
+               
+           </tr>
+       }
+       
+        
+      
+  </tbody>
+
+</table>
+<hr />
+ @Html.ActionLink("Add new employee", "EmployeeDetail")
